@@ -6,4 +6,5 @@
 
 ### Research Interests: Machine Learning 
 - Explainable AI (XAI)
-- Computer Vision : Object Detection
+- Knowledge Distillation (KD) 
+
