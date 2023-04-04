@@ -7,4 +7,9 @@
 ### Research Interests: Machine Learning 
 - Explainable AI (XAI)
 - Knowledge Distillation (KD) 
+- Metric Learning 
 
+### Ongoing Studies
+- Attribute Knowledge Distillation
+- Construction Emotional Dictionary Using Attributes (Plan to Cowork)
+- Adversarial Defense (Plan to Cowork)
