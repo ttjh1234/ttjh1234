@@ -11,5 +11,4 @@
 
 ### Ongoing Studies
 - Attribute Knowledge Distillation
-- Construction Emotional Dictionary Using Attributes (Plan to Cowork)
-- Adversarial Defense (Plan to Cowork)
+- Sound Prediction using Deep Learning
