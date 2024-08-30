@@ -11,4 +11,7 @@
 
 ### Ongoing Studies
 - Attribute Knowledge Distillation
-- Sound Prediction using Deep Learning
+
+### Studies
+- Large Scale Road-Traffic Noise Mapping with AI Technology (Sungsu Choi, Taeho Park, Jong-June Jeon)
+
